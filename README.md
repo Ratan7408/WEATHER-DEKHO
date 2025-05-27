@@ -10,14 +10,14 @@
     Explore, Plan, and Stay Informed with Weather Dekho – Your Trusted Weather Companion!
     <br/>
     <br/>
-    <a href="https://github.com/Vinayak9889/WeatherWave"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ratan7408/WEATHER-DEKHO"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Vinayak9889/WeatherWave">View Demo</a>
+    <a href="https://github.com/Ratan7408/WEATHER-DEKHO">View Demo</a>
     .
-    <a href="https://github.com/Vinayak9889/WeatherWave/issues">Report Bug</a>
+    <a href="https://github.com/Ratan7408/WEATHER-DEKHO">Report Bug</a>
     .
-    <a href="https://github.com/Vinayak9889/WeatherWave/issues">Request Feature</a>
+    <a href="https://github.com/Ratan7408/WEATHER-DEKHO">Request Feature</a>
   </p>
 </p>
 
@@ -121,9 +121,9 @@ Share your ideas to enhance user experience and functionality.
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Vinayak9889/WeatherWave/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Ratan7408/WEATHER-DEKHO/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Vinayak Shukla** - *Computer Science Student* - [Vinayak Shukla](https://github.com/Vinayak9889/) - *Developed Weather-Dekho*
+* **Ratan Srivastav** - *Computer Science Student* - [Ratan Srivastav](https://github.com/Ratan7408) - *Developed Weather-Dekho*
 
