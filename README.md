@@ -125,5 +125,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Ratan7408/WE
 
 ## Authors
 
-* **Ratan Srivastav** - *Computer Science Student* - [Vinayak Shukla](https://github.com/Ratan7408) - *Developed Weather-Dekho*
+* **Ratan Srivastav** - *Computer Science Student* - [Ratan Srivastav](https://github.com/Ratan7408) - *Developed Weather-Dekho*
 
