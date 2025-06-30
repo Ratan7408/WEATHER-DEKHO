@@ -31,7 +31,7 @@ const Weatherdashboard = () => {
     try {
       setLoading(true);
       const response = await fetch(
-        `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${process.env.REACT_APP_WEATHER_API_KEY}`
+        `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=475015bfbddb3f151b8ad7beeba65c8e`
       );
       if (!response.ok) {
         throw new Error("Network response was not ok");
@@ -90,7 +90,7 @@ const Weatherdashboard = () => {
       </div>
       <footer>
         <h5> Copyright &copy; 2023 Weather Dekho. Designed and Developed by <a
-        href="https://github.com/Vinayak9889"> Ratan Srivastav</a></h5>
+        href="https://github.com/Ratan7408"> Ratan Srivastav</a></h5>
     </footer>
     </div>
   );
